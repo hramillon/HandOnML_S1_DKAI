@@ -1,0 +1,15 @@
+data/
+*.sqlite
+
+venv/
+env/
+.env
+.venv
+
+pycache/
+*.pyc
+.ipynb_checkpoints/
+
+.vscode/
+.idea/
+.DS_Store
