@@ -13,3 +13,10 @@ pycache/
 .vscode/
 .idea/
 .DS_Store
+# Claude Code
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+
+project.md
